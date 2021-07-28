@@ -1,6 +1,8 @@
 This is a project that will allow a user to view BeyBlade toys and their components and organize and create new
 combinations of BeyBlade toys.
 
+Currently, the user can only read the files.  Organization and creation will functionality will be added in the future.
+
 ========================================================================================================================
 
 Required modules:
@@ -13,7 +15,7 @@ time
 
 The user will:
 
-    1) Be able to access a list of stock BeyBlades and the three components of which they are made.  These will be read. from an external database (xslx) file.
+    1) Be able to access a list of stock BeyBlades and the three components of which they are made.  These will be read from an external database (xslx) file.
 
 
 ========================================================================================================================
