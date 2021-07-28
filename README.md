@@ -1,2 +1,0 @@
-# finalBeyScript
-Created new repository
